@@ -1,1 +1,4 @@
+baseURL = 'https://tobyscales.github.io/scales.cloud/'
+languageCode = 'en-us'
+title = 'Toby Scales'
 theme = 'adritian'
