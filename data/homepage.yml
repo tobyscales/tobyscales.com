@@ -1,7 +1,6 @@
-baseURL = 'https://tobyscales.github.io/scales.cloud/'
-languageCode = 'en-us'
-title = 'Toby Scales'
-theme = 'adritian-free-hugo-theme'
+baseURL = "https://raditian-hugo.radity.com/"
+languageCode = "en-us"
+theme = "adritian-free-hugo-theme"
 
 # Plugins
 [params.plugins]
