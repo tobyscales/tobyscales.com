@@ -11,8 +11,8 @@ theme = 'adritian'
   URL = "css/main.css"
   [[params.plugins.css]]
   URL = "css/rad-icons.css"
-#  [[params.plugins.css]]
-#  URL = "css/custom.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
 
   # JS Plugins
   [[params.plugins.js]]
