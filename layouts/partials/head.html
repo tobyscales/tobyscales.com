@@ -8,6 +8,10 @@
 <title>{{ .Site.Data.homepage.head.title }}</title>
 <meta name="description" content="{{ .Site.Data.homepage.head.description }}">
 
+{{ $critical := resources.Get "css/critical.css" | resources.ToCSS | resources.Minify }}
+<style data-generator="critical-css">
+{{ $critical.Content | safeCSS }}
+</style>
 
 {{ $cssBundle := slice }}
 {{ range .Site.Params.plugins.css }}
