@@ -1,2 +1,3 @@
 _archive/*
 resources/_gen
+.hugo*
