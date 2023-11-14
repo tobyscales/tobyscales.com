@@ -8,7 +8,7 @@ author = "Hugo Authors"
 
 
 Toby uses this image to discuss the requirements for Innovation:
-{{< figure src="/img/innovation/innovation.png" caption="Innovation is a journey." >}}
+{{< figure src="img/innovation/innovation.png" caption="Innovation is a journey." >}}
 
 ## Innovation in Three Parts
  1) The Vision. A desired goal or "North Star" -- often the result of a creative flash of inspiration.
@@ -17,7 +17,7 @@ Toby uses this image to discuss the requirements for Innovation:
 
  Above all, Innovation must be an *iterative* process. The path will not be clear until you've walked it.
 
-{{< figure src="/img/innovation/tscales-IBC2023-960px.png" caption="Toby speaks at IBC 2023" width="570px" class="align-left">}}
+{{< figure src="img/innovation/tscales-IBC2023-960px.png" caption="Toby speaks at IBC 2023" width="570px" class="align-left">}}
 {{< css.inline >}}
 
 <style>
