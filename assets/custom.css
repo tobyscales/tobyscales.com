@@ -1,0 +1,32 @@
+.footer {
+    /** shrink font on footer **/
+    font-size: 1.1rem;
+}
+
+    /** darker hover color for menu-items **/
+body.colorscheme-dark .navigation a:hover, body.colorscheme-dark .navigation a:focus {
+    color: #9fc9f8;
+}
+
+/** from: https://stackoverflow.com/questions/47410766/images-left-and-right-of-text-with-figcaption **/
+figure.align-right {
+    float: right;
+    width: 50%;
+    text-align: left;
+    font-size: smaller;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  img.scaled {
+    width: 100%;
+  }
+  
+  figure.align-left {
+    float: left;
+    width: 50%;
+    text-align: left;
+    font-size: smaller;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
