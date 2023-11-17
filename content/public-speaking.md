@@ -6,7 +6,7 @@ aliases = ["public-speaking", "publicspeaking", "public"]
 author = "Toby Scales"
 +++
 
-{{< figure src="/img/public-speaking/hpa23-tscales.jpg" caption="Toby Scales on the MovieLabs Panel at HPA 2023" class="align-right" >}}
+{{< figure src="/images/public-speaking/hpa23-tscales.jpg" caption="Toby Scales on the MovieLabs Panel at HPA 2023" class="align-right" >}}
 
 Toby is an outspoken advocate for change in the motion picture industry. 
 
