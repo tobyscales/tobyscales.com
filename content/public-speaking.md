@@ -13,4 +13,5 @@ Toby is an outspoken advocate for change in the motion picture industry.
 At a time when productions are increasingly decentralized operations, his 
 emphasis is on building security into the supply chain. At the same time, 
 new technologies like Generative AI are poised to completely disrupt the 
-creative pipeline.
+creative pipeline. Safely and frictionlessly integrating these advances
+in support of the creative process-- that is his mission.
