@@ -6,7 +6,7 @@ aliases = ["about-me", "about", "about-toby"]
 author = "Hugo Authors"
 +++
 
-{{< figure src="/images/public-speaking/if23-tscales.png" caption="Toby Scales on the MovieLabs Panel at HPA 2023" class="align-left" >}}
+{{< figure src="/images/about/if23-tscales.png" caption="Toby Scales at InfinityFest 2023" class="align-left" >}}
 
 Toby is an Advisor in Google Cloud's Office of the CISO, and an outspoken advocate for change in the motion picture industry. 
 
