@@ -19,7 +19,7 @@ author = "Toby Scales"
 description = "Toby Scales is an Advisor in the Office of the CISO at Google Cloud."
 keywords = "tobyscales,Toby Scales,personal,security,google,cybersecurity,media,entertainment"
 info = ["Advisor for Media & Entertainment", "Office of the CISO, Google Cloud"]
-avatarURL = "/images/who-am-i/tscales-768px.jpg"
+avatarURL = "headshot.jpg"
 
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
