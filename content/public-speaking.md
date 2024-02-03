@@ -8,10 +8,10 @@ author = "Toby Scales"
 
 {{< figure src="/images/public-speaking/hpa23-tscales.jpg" caption="Toby Scales on the MovieLabs Panel at HPA 2023" class="align-right" >}}
 
-Toby is an outspoken advocate for change in the motion picture industry. 
+Toby is happy to speak at your event on any of the following topics:
+ * Innovation
+ * Cybersecurity and Generative AI
+ * Current threat landscape for Media & Entertainment
+ * Security Operations Transformation
 
-At a time when productions are increasingly decentralized operations, his 
-emphasis is on building security into the supply chain. At the same time, 
-new technologies like Generative AI are poised to completely disrupt the 
-creative pipeline. Safely and frictionlessly integrating these advances
-in support of the creative process-- that is his mission.
+Please fill out the contact form below to discuss.
