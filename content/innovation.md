@@ -1,8 +1,8 @@
 +++
 title = "Innovation"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Toby Scales | Innovation"
 date = "2023-10-19"
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["innovation", "toby-scales-speaker", "toby-scales-innovation"]
 author = "Hugo Authors"
 +++
 

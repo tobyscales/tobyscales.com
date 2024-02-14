@@ -1,6 +1,6 @@
 +++
 title = "Public Speaking"
-description = "Toby Scales, Security Advisor"
+description = "Toby Scales | Public Speaking"
 date = "2023-10-19"
 aliases = ["public-speaking", "publicspeaking", "public"]
 author = "Toby Scales"
