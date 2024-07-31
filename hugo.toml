@@ -1,5 +1,5 @@
 baseURL = "https://www.tobyscales.com"
-title = "Toby Scales :: Security at the intersection of Hollywood and Cloud"
+title = ""
 theme = ["hugo-cloak-email", "hugo-coder"]
 languageCode = "en"
 defaultContentLanguage = "en"
