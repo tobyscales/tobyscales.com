@@ -14,4 +14,4 @@ Toby is happy to speak at your event on any of the following topics:
  * Current threat landscape for Media & Entertainment
  * Security Operations Transformation
 
-Please fill out the contact form below to discuss.
+Please {{< cloakemail address="me@tobyscales.com" display="contact me" >}} directly to discuss.
