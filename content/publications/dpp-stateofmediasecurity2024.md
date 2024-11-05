@@ -12,4 +12,4 @@ categories = [
 ]
 +++
 
-{{< figure src="/images/blog/dpp-stateofmediasecurity24.jpg">}}
+[{{< figure src="/images/blog/dpp-stateofmediasecurity24.jpg">}}](https://www.thedpp.com/insight/_m/the-state-of-media-technology-security-2024)
