@@ -1,1 +1,1 @@
-Sample
+My personal website, based on the uber-flexible static site generator [Hugo](https://gohugo.io/) and the perfect, simple [hugo-coder](https://themes.gohugo.io/themes/hugo-coder/) theme by [Luiz de Prá](https://luizdepra.dev/).
