@@ -184,7 +184,7 @@ name = "Public Speaking"
 weight = 4
 url = "public-speaking/"
 
-#[[languages.en.menu.main]]
-#name = "Writing"
-#weight = 5
-#url = "writing/"
+[[languages.en.menu.main]]
+name = "Publications"
+weight = 5
+url = "publications/"
