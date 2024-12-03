@@ -188,3 +188,9 @@ url = "public-speaking/"
 name = "Publications"
 weight = 5
 url = "publications/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 6
+url = "blog/"
+
