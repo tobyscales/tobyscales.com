@@ -8,5 +8,5 @@ tags = [
     "telco",
     "compliance",
 ]
-externalLink = "[https://github.com/luizdepra/hugo-coder/wiki](https://cloud.google.com/blog/products/identity-security/how-google-cloud-supports-telecom-regulatory-compliance?e=0?utm_source%3Dfacebook)"
+externalLink = "[https://cloud.google.com/blog/products/identity-security/how-google-cloud-supports-telecom-regulatory-compliance](https://cloud.google.com/blog/products/identity-security/how-google-cloud-supports-telecom-regulatory-compliance)"
 +++
