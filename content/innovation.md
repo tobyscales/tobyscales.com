@@ -15,7 +15,7 @@ p.canon { background: white; width: 100%; height: auto; }
 </style>
 
 {{< /css.inline >}}
-*"Innovation cannot be merely the result of a lightning strike; it must be supported with discipline and adaptibility."*
+*"Innovation cannot be merely the result of a lightning strike; it must be supported with discipline and adaptability."*
 
 
 ## Innovation in Three Parts
