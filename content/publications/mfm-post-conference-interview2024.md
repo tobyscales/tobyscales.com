@@ -1,7 +1,7 @@
 +++
 authors = ["Toby Scales"]
 title = "MFM Annual Conference - Post-Keynote Interview (2024)"
-date = "2024-10-07"
+date = "2024-06-10"
 description = "MFM Annual Conference - Post-Keynote Interview - 2024"
 tags = [
     "mediafinancemanagement",
