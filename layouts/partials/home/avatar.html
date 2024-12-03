@@ -1,6 +1,6 @@
 {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
   {{ with .Site.Params.avatarURL }}
-    <div class="avatar"><img src="{{ . | relURL }}" alt="avatar" href = "{{ headshot.jpg | relURL }}"></div>
+    <div class="avatar"><a href = "{{ headshot.jpg | relURL }}"><img src="{{ . | relURL }}" alt="avatar" ></a></div>
   {{ end }}
 {{ end }}
 {{ with .Site.Params.gravatar }}
