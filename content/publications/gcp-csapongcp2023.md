@@ -7,5 +7,5 @@ tags = [
     "csap",
     "movielabs",
 ]
-externalLink = "[https://cloud.google.com/blog/products/identity-security/securing-content-production-on-google-cloud-with-csap](https://cloud.google.com/blog/products/identity-security/securing-content-production-on-google-cloud-with-csap)"
+externalLink = "https://cloud.google.com/blog/products/identity-security/securing-content-production-on-google-cloud-with-csap"
 +++
