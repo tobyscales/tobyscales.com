@@ -1,12 +1,14 @@
 +++
 authors = ["Toby Scales"]
 title = "2025: My Unasked-for Predictions on Hollywood, Security and AI"
-date = "2025-12-03"
+date = "2024-12-03"
 description = "Nobody asked me to do this. So I did it."
 tags = [
     "predictions",
     "AI",
     "security",
+]
+categories = [
 ]
 +++
 
