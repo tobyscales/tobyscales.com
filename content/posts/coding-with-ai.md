@@ -43,5 +43,9 @@ Iterative, conversational, with little tweaks here-and-there to nudge developmen
 
 So in the span of ~5 years, this type of entry-level software development went from offshored to basically free. _And that is going to be a big problem for a lot of industries._
 
-LLMs are essentially data-refining gateways slapped in front of mind-bogglingly large, loosely-structured datasets. So 
+LLMs are essentially data-distilling gateways slapped in front of mind-bogglingly large, loosely-structured datasets. Here are some examples of the datasets that LLMs will soon excel at distilling: medical journals, case law, and software code, state and federal regulations. Which professions do we currently trust to do that distilling? Doctors, lawyers, software engineers and judges. These are the jobs that LLMs will eat. 
+
+And it's not going to happen slowly; it's going to happen very, very quickly.
+
+
 
