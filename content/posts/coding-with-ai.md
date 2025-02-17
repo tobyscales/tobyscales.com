@@ -1,7 +1,7 @@
 +++
 authors = ["Toby Scales"]
 title = "AI-Assisted Coding and the Disappearance of White Collar Jobs"
-date = "2025-2-14"
+date = "2025-02-14"
 description = "Not tryna freak you out, but you should probably definitely get a new job."
 tags = [
     "predictions",
