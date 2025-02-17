@@ -55,4 +55,4 @@ It will be nice at first; a highly capable assistant! One that has ready access 
 
 But make no mistake -- you will be training that assistant to take over your job one day. 
 
-{{< figure src="/images/blog/escalated-quickly.gif" caption="Boy, that escalated quickly!">}}
+{{< figure src="/images/blog/escalated-quickly.gif">}}
