@@ -3,7 +3,7 @@ draft = false
 authors = ["Toby Scales"]
 title = "Dispatch from the 2025 HPA Tech Retreat: AI in the Media Biz"
 date = "2025-02-22"
-description = "HPA is the best time you can have in the desert, while still being technically at work."
+description = "the best time you can have in the desert, while still being technically at work."
 tags = [
     "Hollywood",
     "AI",
