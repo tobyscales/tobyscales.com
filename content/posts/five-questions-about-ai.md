@@ -24,7 +24,7 @@ _Don't bother with AI that's baked into productivity suites, that's largely a di
 _Now. Start now. It doesn't matter if you don't know where to put AI in your organization yet, you need a team focused on building the muscle to manage and improve this new thing. The longer you take to start, the farther behind you will be when you finally do._
 
 - **Where should I use AI?** 
-_Focus on helping your devs improve their inner loop first. This is hands-down the most bang for your AI buck. Then expand into other operational roles and functions: anywhere you have to ingest documents, anywhere you have to reason over data thats mostly stranded in Excel or Google Sheets, anyone whose job is primarily about knowing where things are-- get them an AI immediately, so it can learn from and help them._
+_Focus on helping your devs improve their inner loop first. This is hands-down the most bang for your AI buck. Then expand into other operational roles and functions: anywhere you have to ingest documents, anywhere you have to reason over data that's mostly stranded in Excel or Google Sheets, anyone whose job is primarily about knowing where things are-- get them an AI immediately, so it can learn from and help them._
 
 - **How should I use AI?** 
  _Build a Center of Excellence. Keep it incredibly small, like five people max. Staff it not with data engineers and data scientists but with outgoing, problem-solving generalists. Make sure they're people people._
@@ -32,3 +32,5 @@ _Focus on helping your devs improve their inner loop first. This is hands-down t
 Remember, there are [plenty of ways you can improve productivity](https://www.tobyscales.com/posts/coding-with-ai/) and hardly any of them rhyme with "agentic AI." Your biggest wins with AI, today, will be using it to help streamline YOUR business processes, not trying to adopt some other company's unwieldy, fresh-out-of-beta agentic "platform." 
 
 If you don't have a team that's already familiar with managing adoption and change in YOUR company, you are not ready for AI agents. Build that team, build that muscle, and then you can start to evolve.
+
+{{< figure src="/images/blog/hard2swallow.jpg">}}
