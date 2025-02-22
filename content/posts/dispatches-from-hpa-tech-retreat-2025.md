@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 authors = ["Toby Scales"]
 title = "Dispatches from the 2025 HPA Tech Retreat: Trends in the Media Biz"
 date = "2025-02-17"
@@ -30,11 +30,6 @@ Throughout every session and interaction, I felt there were two different "meta 
 
  - The second was a conversation about radical change, and topics in this bucket were: myth-busting about whether AI will replace human creativity; radically uninformed assertions about AI's impending "death spiral" due to its place in [the hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle), an impending lack of training data, or [the problem of model collapse](https://nyudatascience.medium.com/overcoming-the-ai-data-crisis-a-new-solution-to-model-collapse-ddc5b382e182) when AI trains on AI-generated data; and of course lots of carting out of over-used, under-examined conventional wisdom: "the data you get out is only as good as the data you put in," "new models don't show the same performance gains as the early models," and my favorite-- "DeepSeek discovered new optimizations out of necessity." (I'll probably write a post dedicated to debunking just those bits of AI "truisms," because I hear them all the time and I think they can lead to some dangerously bad conclusions.)
 
-But in the meantime, what I want to highlight is simply this. While there was a lot of talk about change, there was very little talk about how to actually manage through change. And this, I think, is what clear-headed individuals and organizations need to be focused on in this moment.
- 
+But in the meantime, what I want to highlight is simply this. While there was a lot of talk about change, there was very little talk about how to actually manage through change. And this, I think, is what clear-headed individuals and organizations need to be focused on in this moment. Topics like optionality, communication, culture and organization are key. 
 
- * Is [Tillered](https://www.tillered.com/) the missing link between [DIT carts](https://blog.frame.io/2023/10/30/history-of-digital-imaging-technician-and-dit-cart/) and the cloud? Maybe!
-
- *  Why aren't [Colorfront's](https://colorfront.com/SOFTWARE) apps in the Google Cloud Marketplace? Because they're mostly on-prem! Perhaps that will change, as production continues to move out of Hollywood and into the diaspora.
-
- *  
+The answer to the question "when should I adopt AI?" is the same as the answer to when you should start working out: the best day to start was yesterday. The second best day is today.  
