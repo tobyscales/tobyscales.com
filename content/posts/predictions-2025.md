@@ -2,7 +2,7 @@
 authors = ["Toby Scales"]
 title = "2025: My Unasked-for Predictions on Hollywood, Security and AI"
 date = "2024-12-03"
-description = "Predictions for 2025 at the intersection of Hollywood, AI and Security."
+description = "don't fear the reaper, fear the year of the agent"
 tags = [
     "predictions",
     "AI",
