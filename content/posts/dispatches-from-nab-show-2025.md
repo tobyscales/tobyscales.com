@@ -26,14 +26,14 @@ On Sunday I sat down with Richard Atkinson at the CDSA Member's Day to discuss "
 
 Dystopian visions are easy to conjure these days, even easier to believe in. And the CDSA itself, of course, faces its own uncertain path forward. Nothing is stable now. We're in a post-deterministic world.
 
-But even in the midst of fog and uncertainty, there were good discussions. Rich and deep discussions, even. Because one thing that's true about people is that when times are good, we put on our happy mask. It's only when times get difficult that we suddenly feel the urge to come clean, get vulnerable and open up to one another.
+But in the midst of all that fog and uncertainty, there were good discussions. Rich and deep discussions, even. Because one thing that's true about people is that when times are good, we tend to put on our happy mask. It's only when times are difficult that we suddenly feel the urge to come clean, get vulnerable and open up to one another.
 
 There was a lot of that on display this year, as well. I'm personally grateful for all the people who shared their struggles with me, and for all who listened to mine. 
 
 So I won't end this summary with a Pollyanna "change brings opportunity!" message, because that's frankly not where I'm at right now. I'm worried about the movie industry I love, the country I love and all the people I love; people whose lives are getting tossed around on this wave as it heads for shore. 
 
-For them, and for all of us: let's not be afraid anymore to have hard conversations. Let's get raw with each other and ask plainly for what we need. AI has entered the chat, and our task now is learning how to live and work alongside this new type of machine/computer/intelligence. 
+For them, and for all of us: let's not be afraid anymore to have hard conversations. Let's get raw with each other and ask plainly for what we need. 
 
-But remembering what makes us human-- and what it *feels* like to be human-- is the best investment we can make right now. 
+AI has entered the chat, we now have to learn how to live and work alongside this new type of machine/computer/intelligence. As we do, remembering what makes us human-- and what it *feels* like to be human-- is the best investment we can make. 
 
 That, and learning more about agentic AI. 😇
