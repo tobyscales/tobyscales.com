@@ -14,7 +14,7 @@ categories = [
 +++
 
 There's an internal meme at Google that perfectly sums up my experience at NAB last week:
-[im-so-tired.png]
+{{< figure src="/images/blog/im-so-tired.png" caption="As seen on Google Memegen" class="align-center">}}
 
 (Pretty sure that's still the most upvoted meme on the site.) 
 
