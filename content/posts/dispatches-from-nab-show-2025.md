@@ -14,15 +14,13 @@ categories = [
 +++
 
 There's an internal meme at Google that perfectly sums up my experience at NAB last week:
-{{< figure src="/images/blog/im-so-tired.png" caption="As seen on Google Memegen" class="align-center">}}
-
-(Pretty sure that's still the most upvoted meme on the site.) 
+{{< figure src="/images/blog/im-so-tired.png" caption="Pretty sure this is still the most upvoted meme at Google." class="align-center">}}
 
 I suppose because it covers succinctly the heady mix of uncertainty, anxiety, and depression that's known to affect Googlers tasked with "[thriving in ambiguity](https://igotanoffer.com/blogs/tech/googleyness-leadership-interview-questions)."
 
 At NAB this year it became clear that we're all Googlers now-- our economic and democratic institutions, our relationship to the federal government, America's relationships with our allies-- all of that is now shot through with ambiguity. And in Hollywood at least, that ambiguity is starting to look a lot more like a full-blown existential crisis.
 
-As one of my friends put it: "The year started with half our city on fire, and it hasn't gotten better!" So when people ask me about the NAB show, the only word I can come up with to describe it is: depressing. The fatigue and anxiety were pervasive in every conversation. Whether it was how productions need to get more efficient, how post-houses are starved for work, or how studios are "restructuring" the implicit question in every conversation was both "Can we keep doing this?" and "For how long?"
+As one of my friends put it: "The year started with half our city on fire, and it hasn't gotten better since!" So when people ask me about the NAB show, the only word I can come up with to describe it is: depressing. The fatigue and anxiety were pervasive in every conversation. Whether it was how productions need to get more efficient, how post-houses are starved for work, or how studios are "restructuring" the implicit question in every conversation was both "Can we keep doing this?" and "For how long?"
 
 I sat down with Richard Atkinson at the CDSA Member's Day to discuss "The Tsunami of Change" affecting the industry, with a handful of (what I thought were) pretty good AI use-cases for any studio. But our wide-ranging discussion soon veered into the potential (inevitable?) rise of AI-generated influencers, hyper-personalized personalities able to tap into every private detail of your life to push product on you: "Hey, I know you've been grieving a lot lately. Here's some useful resources that might help. I know when I lost my mother, it really made me realize I needed to focus on taking care of myself. Have you considered a SoulCycle membership?"
 
