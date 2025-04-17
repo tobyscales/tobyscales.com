@@ -18,7 +18,7 @@ There's an internal meme at Google that perfectly sums up my experience at NAB l
 
 (Pretty sure that's still the most upvoted meme on the site.) 
 
-I suppose because it covers succinctly the heady mix of uncertainty, anxiety, and depression that's known to affect Googlers tasked with "(thriving in ambiguity)[https://igotanoffer.com/blogs/tech/googleyness-leadership-interview-questions]."
+I suppose because it covers succinctly the heady mix of uncertainty, anxiety, and depression that's known to affect Googlers tasked with "[thriving in ambiguity](https://igotanoffer.com/blogs/tech/googleyness-leadership-interview-questions)."
 
 At NAB this year it became clear that we're all Googlers now-- our economic and democratic institutions, our relationship to the federal government, America's relationships with our allies-- all of that is now shot through with ambiguity. And in Hollywood at least, that ambiguity is starting to look a lot more like a full-blown existential crisis.
 
